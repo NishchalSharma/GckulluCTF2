@@ -7,6 +7,9 @@ Chaman Narved on 11 Mar 2020
     
     After installing radare2 you have to check whether radare2 is installed or not (open cmd in windows and terminal in Linux and run command radare2/r2)
     Full video tutorial is on Youtube ( https://youtu.be/yoiolHkVJeQ )
+
+    Solution 2: You can also use GDB debugger to solve this Hackathon.
+    
 Madan Thakur on 12 Mar 2020
 Harsh Gupta on 12 Mar 2020
 Vipul Sharma on 08 Apr 2020
