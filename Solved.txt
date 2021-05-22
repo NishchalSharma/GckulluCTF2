@@ -1,4 +1,11 @@
 Chaman Narved on 11 Mar 2020
+    Solution: I have used the radare2 debugger for this hackathon. With this tool, you can see the assembly of a binary file, meaning you can revers-engineers a Binary file from it. This tool is also used to reverse-engineer viruses.
+    First of all, you will have to install radare2.
+
+    Download link: https://radare.mikelloc.com/list
+    GitHub link: https://github.com/radareorg/radare2 ( Recommended for Linux )
+    
+    After installing radare2 you have to check whether radare2 is installed or not (open cmd in windows and terminal in Linux and run command radare2/r2)
 Madan Thakur on 12 Mar 2020
 Harsh Gupta on 12 Mar 2020
 Vipul Sharma on 08 Apr 2020
